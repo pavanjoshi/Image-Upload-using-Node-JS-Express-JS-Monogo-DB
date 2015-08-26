@@ -1,0 +1,24 @@
+{
+  "name": "assign2",
+
+  "version": "0.9.0",
+  
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies" : {
+        "body-parser": "~1.12.4",
+        "express": "~4.12.4",
+        "mongodb": "~2.0.33",
+        "mongoose": "~3.6.13"  
+        },
+
+  "analyze": false,
+
+  "license": "BSD2",
+
+  "engines": {
+    "node": ">=0.8"
+  }
+}
