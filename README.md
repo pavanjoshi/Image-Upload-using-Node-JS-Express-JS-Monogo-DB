@@ -1,7 +1,7 @@
-# assign2
+# Image-Upload-using-Node-JS-Express-JS-Monogo-DB/ or cancel
 Node JS + Express JS + Monogo DB - GET/ POST/ DELETE <br><br>
 
-Steps :
+Steps to run :
 After all basic pre-requisits, follow below : 
 1. Run 'npm install'.<br>
 2. Run 'npm start'. Starts server.js. <br>
